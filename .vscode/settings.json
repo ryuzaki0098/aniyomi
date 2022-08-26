@@ -1,0 +1,8 @@
+{
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": true,
+    "editor.tabCompletion": "on",
+    "diffEditor.codeLens": true,
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 16
+}
